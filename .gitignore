@@ -1,0 +1,15 @@
+# Ignore Eclipse and Java build files
+.classpath
+.project
+.settings/
+
+# Ignore compiled Java classes
+*.class
+
+# Ignore build directories
+build/
+target/
+
+# Ignore database config (if any)
+db.properties
+
